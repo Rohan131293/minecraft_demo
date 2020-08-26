@@ -6,6 +6,6 @@ sudo snap install minecraft
 
 
 <h3>#Ubuntu default location of level.dat file(When installed using snap)</h3>
-~/snap/mc-installer/<some_number>/.minecraft/saves/Demo_World/level.dat
+~/snap/mc-installer/499/.minecraft/saves/Demo_World/level.dat
 
 
